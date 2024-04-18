@@ -54,7 +54,7 @@ cd build/bin
 ./DotNetworkSFML
 ```
 
-The font used is the [Aileron](https://www.1001fonts.com/aileron-font.html), free for personal/commercial use. The binary need to have in the same folder with the following name `Aileron-Regular.otf`. Any font will work, but anyway, there is the Aileron in the `src/` folder.
+The font used is the [Aileron](https://www.1001fonts.com/aileron-font.html), free for personal/commercial use. The binary need to have it in the same folder with the following name `Aileron-Regular.otf`. Any font will work, but anyway, there is the Aileron in the `src/` folder.
 
 ___
 
