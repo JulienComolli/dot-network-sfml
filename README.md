@@ -26,7 +26,7 @@ Here is a (low quality) preview :
 
 
 
-1. You need to have `cmake` installed, as well as the other usual compilation tools (g++, gcc). I had a problem with the include files, I needed to install `g++-12` to resolve it.
+1. You need to have `cmake` installed, as well as the other usual compilation tools (g++, gcc). I had a problem with the include files, I needed to install `g++-12` to resolve it. *You don't need to have the SFML installed, it will be downloaded and compiled.*
 2. Install all the libs required by the SFML :
 ```
 sudo apt update
